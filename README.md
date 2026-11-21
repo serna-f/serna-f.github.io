@@ -1,1 +1,2 @@
-# serna-f.github.io
+# Proyecto final: mi portafolio en GitHub pages
+### Proyecto de aprendizaje del curso Git y Git Hub
